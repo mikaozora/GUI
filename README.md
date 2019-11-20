@@ -1,0 +1,11 @@
+# GUI
+![Alt text](https://github.com/mikaozora/GUI/blob/master/1.PNG)
+![Alt text](https://github.com/mikaozora/GUI/blob/master/2.PNG)
+![Alt text](https://github.com/mikaozora/GUI/blob/master/3.PNG)
+![Alt text](https://github.com/mikaozora/GUI/blob/master/4.PNG)
+![Alt text](https://github.com/mikaozora/GUI/blob/master/kuis1.PNG)
+![Alt text](https://github.com/mikaozora/GUI/blob/master/kuis2.PNG)
+![Alt text](https://github.com/mikaozora/GUI/blob/master/1.1.PNG)
+![Alt text](https://github.com/mikaozora/GUI/blob/master/2.1.PNG)
+![Alt text](https://github.com/mikaozora/GUI/blob/master/3.1.PNG)
+![Alt text](https://github.com/mikaozora/GUI/blob/master/uji.PNG)
